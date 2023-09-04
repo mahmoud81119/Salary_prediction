@@ -1,0 +1,7 @@
+streamlit
+scikit-learn==1.2.2
+matplotlib
+seaborn
+plotly
+sklearn-features==0.0.2
+python-multipart
